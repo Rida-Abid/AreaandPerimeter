@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AreaandPerimeter": {
+      "commandName": "Project",
+      "commandLineArgs": "12.2 13.3 14.4\r\n"
+    }
+  }
+}
